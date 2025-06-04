@@ -4,3 +4,8 @@ Step for the projects workflow:-
 3. install dvc in terminal
 4. "dvc init"
 5. now da "mkdir s3" (create a new s3 directory)
+6. "dvc remote add -d myremote s3"
+7. "dvc add data/"
+8. dvc commit / dvc push
+9. git commit push main
+10. 
