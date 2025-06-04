@@ -10,3 +10,5 @@ Step for the projects workflow:-
 9. git commit push main
 10. now make changes mycode.py file to append a new row int he file
 11. again-- "dvc commit" and "dvc push"
+12. git add commit push
+13. dvc/git status
