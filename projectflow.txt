@@ -1,3 +1,6 @@
 Step for the projects workflow:-
 1. Create git repo and clone it the local
 2. create myScode.py and ass codes to it (it will save a csv file to a new "data" folder)
+3. install dvc in terminal
+4. "dvc init"
+5. now da "mkdir s3" (create a new s3 directory)
