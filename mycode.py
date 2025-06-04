@@ -12,6 +12,10 @@ data = {
 df = pd.DataFrame(data)
 
 
+##Adding a new row of the detais to the dataframe
+new_row_loc = {'Name':'GF1', 'Age': 20, 'City': 'London'}
+df.loc[len(df.index)] = new_row_loc
+
 
 ## Ensure the data directory exists at the root level
 

@@ -8,4 +8,5 @@ Step for the projects workflow:-
 7. "dvc add data/"
 8. dvc commit / dvc push
 9. git commit push main
-10. 
+10. now make changes mycode.py file to append a new row int he file
+11. again-- "dvc commit" and "dvc push"
